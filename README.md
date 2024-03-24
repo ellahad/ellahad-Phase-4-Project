@@ -30,7 +30,7 @@
 
 5). Presentation of findings through clear visualizations and a compelling narrative to facilitate decision-making by stakeholders.
 
-## Data 
+## Dataset Overview 
 - This project uses a dataset from obtained from Kaggle.The dataset was originally web extracted from the Zillow website(Filter == USA housing).
 
 - The dataset contains information on various regions, cities, and states along with thier property values over time.
