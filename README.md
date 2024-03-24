@@ -3,11 +3,11 @@
 # Real Estate Analysis And Forecasting
 
 ## Objectives of the study
-- The real estate market is always transforming, affected by a number of factors such as the economy and demographic trends.
+- The real estate market is always transforming, affected by several factors such as the economy and demographic trends.
   
 - Understanding the trends in property values and rental rates is key for investors, developers, and policymakers to make smart decisions.
   
-- Our aim is to give pleasant, confident, and educated analysis and projections in regards to the real estate market in the United States, allowing everyone involved to easily navigate the housing market.
+- We aim to give pleasant, confident, and educated analysis and projections regarding the real estate market in the United States, allowing everyone involved to easily navigate the housing market.
 
 ## Problem Statement:
 - The real estate investment firm has tasked us, as consultants, with identifying the top 5 zip codes for investment opportunities. 
@@ -31,22 +31,22 @@
 5). Presentation of findings through clear visualizations and a compelling narrative to facilitate decision-making by stakeholders.
 
 ## Dataset Overview 
-- This project uses a dataset from obtained from Kaggle.The dataset was originally web extracted from the Zillow website(Filter == USA housing).
+- This project uses a dataset obtained from Kaggle. The dataset was originally web-extracted from the Zillow website(Filter == USA housing).
 
-- The dataset contains information on various regions, cities, and states along with thier property values over time.
+- The dataset contains information on various regions, cities, and states along with their property values over time.
 
 - By examining factors such as regional demographics and property characteristics, we seek to understand what influences property values in different areas.
 
 - The target variable is in the price column.
 
-- The dataset can be downloaded directly from kaggle  or from this repo in Data.csv file.
+- The dataset can be downloaded directly from Kaggle  or this repo in the Data.csv file.
 
-## Data Analysis And Timeseries Forecasting
-- Data prepreparation,feature engineering and data analysis was performed on the dataset.
+## Data Analysis And Time-series Forecasting
+- Data preparation, feature engineering, and data analysis were performed on the dataset.
 
 - Time series forecasting was then performed on the dataset to obtain the top 5 zip codes with the highest RIO.
 
-- From the forecasting,the following visualized zipcodes were found to be the best in terms of investment opportunity.
+- From the forecasting, the following visualized zip codes were found to be the best in terms of investment opportunity.
 
 ![image](https://github.com/ellahad/ellahad-Phase-4-Project/assets/92978069/e5941feb-af15-4f35-8dcb-c660f49aaf49)
 
